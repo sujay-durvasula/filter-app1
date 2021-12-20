@@ -1,0 +1,10 @@
+body{
+   background-color: brown; 
+}
+#snap{border: ridge;
+border-color: red;
+border-width: 5px;}
+
+canvas{border-style: groove;
+border-color:greenyellow ;
+border-width: 5px;}
